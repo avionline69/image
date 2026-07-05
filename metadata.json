@@ -1,0 +1,6 @@
+{
+  "name": "AI Photo Studio",
+  "description": "AI-powered photo editor with background change, quality enhancement, batch processing, analytics dashboard, cloud sync, and collaborative API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
